@@ -13,3 +13,9 @@ public class Print {
         System.out.println(ID + " : " + message);
     }
 }
+
+class Main {
+    public static void main(String[] args) {
+        Print.print("Hello");
+    }
+}
