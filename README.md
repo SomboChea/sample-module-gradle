@@ -2,7 +2,7 @@
 
 [![](https://jitpack.io/v/com.cubetiqs.git.CUBETIQ/sample-module-gradle.svg)](https://jitpack.io/#com.cubetiqs.git.CUBETIQ/sample-module-gradle)
 
-### Gradle
+#### Gradle
 <b>Step 1</b>. Add the JitPack repository to your build file.
 ```groovy
 allprojects {
