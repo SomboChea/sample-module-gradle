@@ -10,6 +10,10 @@ public class Print {
     public static final String ID = "PRINT";
 
     public static void print(String message) {
+        System.out.print(ID + " : " + message);
+    }
+
+    public static void println(String message) {
         System.out.println(ID + " : " + message);
     }
 }
